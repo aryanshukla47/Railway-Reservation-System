@@ -6,16 +6,16 @@ A comprehensive *Railway Reservation System* which is a dymanic fare System deve
 
 ## 📁 Project Structure
 
-
+```
 .
-├── header.h               # Class & structure definitions
-├── management.cpp         # Core logic (reservations, users, date handling)
-├── main.cpp               # Application flow for admin & user roles (C++ CLI)
-├── railway_gui.py         # Python Tkinter GUI for ticketing
-├── bookings.csv           # (Generated) Stores user bookings from GUI
-├── stations.txt           # List of available stations (for GUI)
-└── user.dat / adm.bin     # Binary storage for users and system data (CLI)
-
+├── header.h               # Class & structure definitions  
+├── management.cpp         # Core logic (reservations, users, date handling)  
+├── main.cpp               # Application flow for admin & user roles (C++ CLI)  
+├── railway_gui.py         # Python Tkinter GUI for ticketing  
+├── bookings.csv           # (Generated) Stores user bookings from GUI  
+├── stations.txt           # List of available stations (for GUI)  
+└── user.dat / adm.bin     # Binary storage for users and system data (CLI)  
+```
 
 ---
 
@@ -128,5 +128,5 @@ A comprehensive *Railway Reservation System* which is a dymanic fare System deve
 
 ## 👨‍💻 Author
 
-- *C++ System Developer: *Aryan Shukla
-- *Python GUI Developer: *Aryan Shukla
+- *C++ System Developer: Aryan Shukla
+- *Python GUI Developer: Aryan Shukla
